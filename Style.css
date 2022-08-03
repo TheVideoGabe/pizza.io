@@ -45,7 +45,7 @@ body {
 
 #pizza{
     background: none;
-    background-image: url("https://raw.githubusercontent.com/Gabrrrl/Gabrrrl.github.io/main/img/Pizza2.gif");
+    background-image: url("/img/Pizza2.gif");
     height: 100%;
     left: 0;
     position: absolute;
